@@ -1,4 +1,4 @@
-First create the database name (Symbark-Tech) in mysql
+First create the database name (sembark-tech) in mysql
 
 
 you can run some command project path
