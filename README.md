@@ -1,7 +1,7 @@
 First create the database name (sembark-tech) in mysql
 
 
-you can run some command project path
+run commands project path
 
 composer command => composer install
 
