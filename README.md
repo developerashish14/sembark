@@ -16,7 +16,7 @@ LOGIN INFO
     Email = superadmin@gmail.com
     password = 12345678
 
-Superadmin only view url shortner list and create
+Superadmin only view url shortner list
 
 Superadmin can invite the client and create company
 
