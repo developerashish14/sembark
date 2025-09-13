@@ -1,6 +1,8 @@
 First create the database name (Symbark-Tech) in mysql
 
+
 you can run some command project path
+composer command => composer install
 migration command => php artisan migrate
 seeder command => php artisan db:seed
 project start command => php artisan serve
