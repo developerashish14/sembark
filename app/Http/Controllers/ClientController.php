@@ -98,7 +98,7 @@ class ClientController extends Controller
                 }
 
             }catch(\Exception $e){
-                dd($e);
+                
                 $response['message']['refrence'] = 'Error! Please try again';
             }
             
